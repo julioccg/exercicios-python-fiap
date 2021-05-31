@@ -45,4 +45,3 @@ if len(valores) > 0:
     print(f'O equipamento mais caro custa: {max(valores)}')
     print(f'O equipamento mais barato custa: {min(valores)}')
     print(f'O total de equipamentos é de: {sum(valores)}')
-
